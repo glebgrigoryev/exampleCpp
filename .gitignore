@@ -4,4 +4,4 @@
 *.lnk
 *.tlog
 .vs
-/Debug
+/Debug*
