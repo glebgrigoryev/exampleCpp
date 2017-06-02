@@ -1,0 +1,7 @@
+*.[oa]
+*.obj
+*.log
+*.lnk
+*.tlog
+.vs
+/Debug
