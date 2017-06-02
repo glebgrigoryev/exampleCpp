@@ -5,3 +5,4 @@
 *.tlog
 .vs
 /Debug*
+/ExampleCpp/Debug*
