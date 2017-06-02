@@ -6,3 +6,5 @@
 .vs
 /Debug*
 /ExampleCpp/Debug*
+/ExampleCpp/x64*
+/x64*
