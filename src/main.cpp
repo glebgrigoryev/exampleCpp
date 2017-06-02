@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-	int qwe = 5;
+	int qwe = 51;
 	std::cout << "qwe = " << qwe << std::endl;
 	system("PAUSE");
 	return 0;
